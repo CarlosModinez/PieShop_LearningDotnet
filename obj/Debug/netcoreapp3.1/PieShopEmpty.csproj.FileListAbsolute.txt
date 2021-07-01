@@ -1,0 +1,136 @@
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.deps.json
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.runtimeconfig.json
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.runtimeconfig.dev.json
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.dll
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.pdb
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.csproj.AssemblyReference.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.AssemblyInfoInputs.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.AssemblyInfo.cs
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.csproj.CoreCompileInputs.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.MvcApplicationPartsAssemblyInfo.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/staticwebassets/PieShopEmpty.StaticWebAssets.Manifest.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/staticwebassets/PieShopEmpty.StaticWebAssets.xml
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/scopedcss/bundle/PieShopEmpty.styles.css
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorTargetAssemblyInfo.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.dll
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.pdb
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.genruntimeconfig.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.Views.dll
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.Views.pdb
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorAssemblyInfo.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorAssemblyInfo.cs
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.TagHelpers.input.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.TagHelpers.output.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorCoreGenerate.cache
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorTargetAssemblyInfo.cs
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.Views.pdb
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.csproj.CopyComplete
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/modinezcarlos/Projects/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/libman.json
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/libman.json
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/mono_crash.11a67480d0.0.json
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.deps.json
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.runtimeconfig.json
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.runtimeconfig.dev.json
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.pdb
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.Views.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/PieShopEmpty.Views.pdb
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.csproj.AssemblyReference.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.AssemblyInfoInputs.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.AssemblyInfo.cs
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.csproj.CoreCompileInputs.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.MvcApplicationPartsAssemblyInfo.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorAssemblyInfo.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorAssemblyInfo.cs
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/staticwebassets/PieShopEmpty.StaticWebAssets.Manifest.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/staticwebassets/PieShopEmpty.StaticWebAssets.xml
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/scopedcss/bundle/PieShopEmpty.styles.css
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.TagHelpers.input.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.TagHelpers.output.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorCoreGenerate.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorTargetAssemblyInfo.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.RazorTargetAssemblyInfo.cs
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.Views.pdb
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.pdb
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.genruntimeconfig.cache
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/obj/Debug/netcoreapp3.1/PieShopEmpty.csproj.CopyComplete
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libsqlite3.so
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libsqlite3.dylib
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win7-x64/native/sqlite3.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win7-x86/native/sqlite3.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/modinezcarlos/Desktop/Curso .NET Core/PieShopEmpty/PieShopEmpty/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
